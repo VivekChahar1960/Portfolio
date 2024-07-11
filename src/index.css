@@ -1,0 +1,19 @@
+.container{
+  padding-left: 8%;
+  padding-right: 8%;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+@media (max-width:1200px){
+  .container{
+    padding-left: 6%;
+    padding-right: 6%;
+  }
+}
+@media (max-width:1000px){
+  .container{
+    padding-left: 4%;
+    padding-right: 4%;
+  }
+}
