@@ -27,6 +27,7 @@
     }
     .footernav ul{
         margin-bottom: 3rem;
+        padding-left:0;
     }
 }
 @media (max-width:650px){
