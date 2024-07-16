@@ -32,7 +32,7 @@ const About = () => {
             </div>
         </div>
         <div className='about_urself'>
-            <p>UG eager Software Developer adapt in web Technology to apply excellent analytical and developmental skills, aiming to learn and gain new experiences, while utilizing interpersonal skills to contribute to business goals. Strong foundation in algorithms, data structures, and OOP concepts . Eager to work in a dynamic organization with opportunities for career growth, demonstrating quick learning and problem-solving abilities.</p>
+            <p>Passionate Software Engineer and Full Stack Developer with expertise in Java, JavaScript, React.js, Node.js, Express.js, and Git. Strong foundation in data structures, algorithms, and object-oriented programming (OOP). Eager to contribute to innovative projects and advance career growth in a dynamic environment.</p>
         </div>
         </div>
         </div>
